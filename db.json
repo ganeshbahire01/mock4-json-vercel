@@ -2,9 +2,9 @@
   "users": [
     {
       "id": 1,
-      "username": "abc",
-      "email": "abc@gmail.com",
-      "pass": "abc"
+      "name": "abc",
+      "level": "abc@gmail.com",
+      "score": "abc"
     }
   ],
   "data": [
